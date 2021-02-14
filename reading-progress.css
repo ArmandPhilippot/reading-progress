@@ -1,0 +1,8 @@
+.reading-progress {
+  background: transparent;
+  height: 5px;
+}
+
+.reading-progress__bar {
+  background: blue;
+}
